@@ -16,7 +16,8 @@ Enables players to inspect each other's equipments by either command or OnObject
 
 ## Description
 
-[CLICK THE PICTURE FOR REFERENCE - YT VIDEO] (TO BE ADDED)
+[CLICK THE PICTURE FOR REFERENCE - YT VIDEO][![Showcasing the script:](https://img.youtube.com/vi/63WNs_KF5FQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=63WNs_KF5FQ)
+
 
 
 ## Configurables (variables that can be changed inside *main.lua* to better suite your needs)
