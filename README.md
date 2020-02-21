@@ -1,4 +1,4 @@
-# -TES3MP-Inspect
+# -TES3MP-Inspect (0.7.0 and 0.7.1 version, installation is the same)
 Enables players to inspect each other's equipments by either command or OnObjectActivate.
 
 ## Requires
